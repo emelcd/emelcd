@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **eCommerce project**
 
-- 🌱 I’m currently learning **React** && **lit.dev**
+- 🌱 I’m currently learning **Typescript** && **lit.dev**
 
 - 👯 I’m looking to collaborate on **a product base project**
 
