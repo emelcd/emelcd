@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Miguel</h1>
 <h3 align="center">A passionate web developer from Spain</h3>
 
-- 🔭 I’m currently working on **eCommerce project**
+- 🔭 I’m currently working on **Social media App**
 
 - 🌱 I’m currently learning **Typescript** && **lit.dev**
 
